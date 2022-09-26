@@ -1,0 +1,47 @@
+
+body { 
+    background-color: #B0E0E6;
+}
+
+p { 
+    color: white;
+}
+
+h3 { 
+    color: yellow;
+    border-style: dashed;
+    border-color: white;
+    margin: 10px 10px 10px 10px;
+    padding: 10px;
+}
+
+a { 
+    color: hotpink;
+ }
+
+a:hover { 
+    color: black;
+    font-family: verdana;
+    font-size: 280%;
+ }
+
+#BBC:hover { 
+    color: black;
+    font-family: arial;
+    font-size: 10%;
+ }
+#Henry { 
+    color: purple;
+    font-weight: bold;
+    font-family: courier;
+    font-size: 120%;
+    border-style: ridge;
+    border-color: orange;
+    border-width: 5px;
+    padding: 10px;
+ }
+
+.hclass { 
+    color: orange;
+ }
+
